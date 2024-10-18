@@ -5,7 +5,7 @@ from datetime import datetime
 import os
 
 root = tk.Tk()
-root.title("고민사거리 한눈에 보기")
+root.title("고민사거리 프로젝트!!")
 root.geometry("1200x600")
 
 #왼쪽 프레임 설정
